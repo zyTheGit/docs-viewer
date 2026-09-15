@@ -81,6 +81,6 @@ export default defineConfig({
       }
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/aniu/docs-viewer' }]
+    socialLinks: [{ icon: 'github', link: 'https://github.com/zyTheGit/docs-viewer' }]
   }
 })
